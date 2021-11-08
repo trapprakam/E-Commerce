@@ -1,8 +1,8 @@
-package com.takehometest.shoppingcart;
+package com.ecommercesite.shoppingcart;
 
-import com.takehometest.inventory.Product;
-import com.takehometest.promotions.Promotion;
-import com.takehometest.promotions.PromotionApplicationType;
+import com.ecommercesite.inventory.Product;
+import com.ecommercesite.promotions.Promotion;
+import com.ecommercesite.promotions.PromotionApplicationType;
 
 import java.math.BigDecimal;
 import java.math.RoundingMode;

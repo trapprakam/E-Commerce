@@ -1,4 +1,4 @@
-package com.takehometest.promotions;
+package com.ecommercesite.promotions;
 
 /**
  * This Enum is used to indicate when a promotion should be

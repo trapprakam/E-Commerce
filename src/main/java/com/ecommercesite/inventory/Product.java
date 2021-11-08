@@ -1,4 +1,4 @@
-package com.takehometest.inventory;
+package com.ecommercesite.inventory;
 
 import java.math.BigDecimal;
 import java.util.Objects;

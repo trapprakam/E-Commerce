@@ -1,9 +1,9 @@
-package com.takehometest.shoppingcart;
+package com.ecommercesite.shoppingcart;
 
-import com.takehometest.inventory.Product;
-import com.takehometest.promotions.Promotion;
-import com.takehometest.promotions.PromotionApplicationType;
-import com.takehometest.promotions.SpendOver75Promotion;
+import com.ecommercesite.inventory.Product;
+import com.ecommercesite.promotions.Promotion;
+import com.ecommercesite.promotions.PromotionApplicationType;
+import com.ecommercesite.promotions.SpendOver75Promotion;
 import org.mockito.Mock;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;

@@ -1,7 +1,7 @@
-package com.takehometest.promotions;
+package com.ecommercesite.promotions;
 
-import com.takehometest.inventory.Product;
-import com.takehometest.shoppingcart.CartItem;
+import com.ecommercesite.inventory.Product;
+import com.ecommercesite.shoppingcart.CartItem;
 import org.junit.jupiter.api.Test;
 
 import java.math.BigDecimal;

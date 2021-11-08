@@ -4,10 +4,10 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.takehometest</groupId>
+    <groupId>com.ecommercesite</groupId>
     <artifactId>e-commerce</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <description>E-Commerce Challenge</description>
+    <description>E-Commerce Site</description>
 
     <properties>
         <maven.compiler.source>11</maven.compiler.source>

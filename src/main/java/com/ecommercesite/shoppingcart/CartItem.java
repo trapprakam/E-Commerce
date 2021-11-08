@@ -1,6 +1,6 @@
-package com.takehometest.shoppingcart;
+package com.ecommercesite.shoppingcart;
 
-import com.takehometest.inventory.Product;
+import com.ecommercesite.inventory.Product;
 
 import java.util.Objects;
 

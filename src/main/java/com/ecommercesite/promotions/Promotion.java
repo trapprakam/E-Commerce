@@ -1,6 +1,6 @@
-package com.takehometest.promotions;
+package com.ecommercesite.promotions;
 
-import com.takehometest.shoppingcart.CartItem;
+import com.ecommercesite.shoppingcart.CartItem;
 
 import java.math.BigDecimal;
 import java.util.List;
